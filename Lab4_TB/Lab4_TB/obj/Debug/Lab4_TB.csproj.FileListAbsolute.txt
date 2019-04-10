@@ -1,0 +1,10 @@
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\bin\Debug\Lab4_TB.exe.config
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\bin\Debug\Lab4_TB.exe
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\bin\Debug\Lab4_TB.pdb
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\obj\Debug\Lab4_TB.csprojAssemblyReference.cache
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\obj\Debug\Lab4_TB.Form1.resources
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\obj\Debug\Lab4_TB.Properties.Resources.resources
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\obj\Debug\Lab4_TB.csproj.GenerateResource.cache
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\obj\Debug\Lab4_TB.csproj.CoreCompileInputs.cache
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\obj\Debug\Lab4_TB.exe
+C:\Users\FOI.LABOS\Desktop\Lab4_TB\Lab4_TB\obj\Debug\Lab4_TB.pdb
